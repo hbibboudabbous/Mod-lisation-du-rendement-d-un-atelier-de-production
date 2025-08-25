@@ -40,7 +40,7 @@ Table of Contents:
 
 Clone the repository:
 
-git clone https://github.com/your-username/sope-app.git
+git clone https://github.com/hbibboudabbous/sope-app.git
 cd sope-app
 
 
